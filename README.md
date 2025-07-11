@@ -1,3 +1,2 @@
-<P>AYO AYO BESOK KITA BUAT LP[</P>
-<p>UNTUK CARA MELIHAT TXT SUDAH DI JELASKAN DI BAGIAN REPOSITORY 303</p>
-<p>Tennessee</p>
+<P>Ini adalah salah satu contoh html untuk sebuah landing page.</P>
+<P>untuk cara melihat txt landing page sudah di beritahu di repository sebelumnya<P>
