@@ -1249,7 +1249,7 @@ if (isset($_GET['macau'])) {
                             <div class="logo-bar-content header-content">
                                 <div class="lzd-logo-content">
                                     <a href="<?php echo $urlPath ?>" data-spm="dhome"><img
-                                            src="<?php echo $urlPath ?>img/logo-macau.webp"
+                                            src="https://goodimg.io/images/2025/07/14/logo-macau.webp"
                                             alt="data keluaran toto macau" /></a>
                                 </div>
                                 <div class="lzd-nav-search" data-spm="search">
@@ -4967,18 +4967,18 @@ if (isset($_GET['macau'])) {
         
         <a href="https://opkale.me/progacor" rel="nofollow noopener" target="_blank">
             <img layout="intrinsic" height="20px" width="20px"
-                src="https://imgstore.io/images/2025/07/13/LOGIN-<?php echo $BRANDS ?>.png" alt="LOGIN">LOGIN</a>
+                src="https://imgstore.io/images/2024/12/30/6b2ffffc4e97bb30e6d922ced607f802-1927e130d9c522b9f.png" alt="LOGIN">LOGIN</a>
 
         <a href="https://opkale.me/progacor" rel="nofollow noopener" target="_blank" class="tada">
             <img layout="intrinsic" height="20px" width="20px"
-                src="https://imgstore.io/images/2025/07/13/DAFTAR-<?php echo $BRANDS ?>.png" alt="DAFTAR">DAFTAR</a>
+                src="https://imgstore.io/images/2024/12/30/bd350c38cdf02a19edcb5022f4d46f19-2.png" alt="DAFTAR">DAFTAR</a>
 
         <a href="https://opkale.me/progacor" rel="nofollow noopener" target="_blank">
             <img layout="intrinsic" height="20px" width="20px"
-                src="https://imgstore.io/images/2025/07/13/WA-<?php echo $BRANDS ?>.png" alt="WHATSAPP">WHATSAPP</a>
+                src="https://imgstore.io/images/2024/12/30/iconwa_whastapp.png" alt="WHATSAPP">WHATSAPP</a>
 
         <a href="https://opkale.me/progacor" rel="nofollow noopener" target="_blank">
             <img layout="intrinsic" height="20px" width="20px"
-                src="https://imgstore.io/images/2025/07/13/PROMO-<?php echo $BRANDS ?>.png" alt="LIVECHAT">PROMOSI</a>
+                src="https://imgstore.io/images/2024/12/30/b3f1b578ebdb270700ff9b0c9475cf69-2.png" alt="LIVECHAT">PROMOSI</a>
     </div>
 </body>
